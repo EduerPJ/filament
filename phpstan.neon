@@ -12,7 +12,6 @@ parameters:
     - bootstrap/cache
   ignoreErrors:
     - '#Undefined variable: \$this#'
-    - '#Method .* should return Illuminate\\View\\View but returns Illuminate\\Contracts\\View\\View#'
   earlyTerminatingMethodCalls:
     App\Http\Controllers\Controller:
       - abort
