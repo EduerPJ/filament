@@ -4,7 +4,7 @@
 
 Este proyecto es un sistema completo de gestión de pacientes para una clínica veterinaria desarrollado con Laravel y Filament. Permite gestionar pacientes (gatos, perros, conejos), sus propietarios y tratamientos médicos, incluyendo un dashboard con estadísticas y gráficos de tendencias.
 
-**Demo en vivo**: [https://filament-main-0llmjj.laravel.cloud/admin/login](https://filament-main-0llmjj.laravel.cloud/admin/login)
+**Demo en vivo**: [https://filament-main-0llmjj.laravel.cloud](https://filament-main-0llmjj.laravel.cloud)
 
 
 ## Requisitos Previos
